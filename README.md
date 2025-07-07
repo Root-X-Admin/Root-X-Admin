@@ -17,6 +17,8 @@
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About SOAP &amp; How Pentesters Exploit Them?](https://root-x-admin.medium.com/everything-you-need-to-know-about-soap-how-pentesters-exploit-them-71f863dd228f?source=rss-960bddd3325a------2)
+- [What is an API? A Deep Dive for Developers &amp; Security Enthusiasts](https://root-x-admin.medium.com/what-is-an-api-a-deep-dive-for-developers-security-enthusiasts-e127327937d5?source=rss-960bddd3325a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
