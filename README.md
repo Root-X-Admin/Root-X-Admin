@@ -16,7 +16,6 @@
 - 📫 How to reach me **hande.ayush29@gmail.com**
 
 ## 📰 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
