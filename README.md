@@ -17,6 +17,7 @@
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why REST API Rules the Web &lpar;And SOAP Still Has a Job&rpar;](https://root-x-admin.medium.com/why-rest-api-rules-the-web-and-soap-still-has-a-job-95355d58042f?source=rss-960bddd3325a------2)
 - [What is Database? Relational and Non-Relational Databases.](https://root-x-admin.medium.com/what-is-database-relational-and-non-relational-databases-0e0b3f003bc5?source=rss-960bddd3325a------2)
 - [Everything You Need to Know About SOAP &amp; How Pentesters Exploit Them?](https://root-x-admin.medium.com/everything-you-need-to-know-about-soap-how-pentesters-exploit-them-71f863dd228f?source=rss-960bddd3325a------2)
 - [What is an API? A Deep Dive for Developers &amp; Security Enthusiasts](https://root-x-admin.medium.com/what-is-an-api-a-deep-dive-for-developers-security-enthusiasts-e127327937d5?source=rss-960bddd3325a------2)
